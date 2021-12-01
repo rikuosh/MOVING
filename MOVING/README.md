@@ -1,24 +1,41 @@
-# README
+# <ここにアプリ名を入力>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
 
-Things you may want to cover:
+<自分の家の引越に関する記録が残せるサイト>
 
-* Ruby version
+### サイトテーマ
 
-* System dependencies
+<引越に関する記録を残す/顧客に関する記録を残す>
 
-* Configuration
+### テーマを選んだ理由
 
-* Database creation
+<前職では引越の見積金額を算出して顧客に提示する仕事をしていました。
+仕事をしながら、顧客側の立場からも業者としての立場からも不便だと思うことや実現されてほしいと思うシステムがいくつかあったので双方が引越作業をする上でより快適な環境を作り出せるのではないかと思いこのテーマにしました。>
 
-* Database initialization
+### ターゲットユーザ
 
-* How to run the test suite
+<引越の頻度が多い転勤族及び対応をする顧客引越業者>
 
-* Services (job queues, cache servers, search engines, etc.)
+### 主な利用シーン
 
-* Deployment instructions
+<顧客側：自分が引越をする時に家具の登録を行ったり、金額の登録を行ったりと次回の引越のために記録を残したいとき。
+業者側：顧客が引越を終えた時に、その顧客が信頼できる顧客かどうか、顧客に対するレビューを記録する。>
 
-* ...
+## 設計書
+
+<...>
+
+## チャレンジ要素一覧
+
+https://docs.google.com/spreadsheets/d/1yFAPxIvpO7otKF1cBKTJK6JBVjJBa33X4SweYXb-ZNs/edit#gid=0
+
+## 開発環境
+
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JS ライブラリ：jQuery
+- IDE：Cloud9
+
+
